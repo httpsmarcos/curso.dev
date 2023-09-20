@@ -4,7 +4,7 @@
   "description": "Criando programa do zero ao avançado com intuito de aprendizado",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "Michel",
   "license": "MIT",
